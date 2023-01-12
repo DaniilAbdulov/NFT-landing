@@ -1,0 +1,10 @@
+@media (max-width: 912px) {
+  .head__link {
+    margin: 0 10px 0 0;
+  }
+}
+@media (max-width: 655px) {
+  .head__list {
+    display: none;
+  }
+}
