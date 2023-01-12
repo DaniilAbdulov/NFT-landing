@@ -309,6 +309,7 @@ body {
   width: 100%;
   padding: 30px 50px;
   background-color: #152767;
+  border-radius: 10px;
 }
 .spons .spons__list {
   display: flex;
